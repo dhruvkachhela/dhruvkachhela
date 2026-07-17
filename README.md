@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Dhruv%20Kachhela&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Physics%20%40%20IIT%20Indore%20%7C%20Learning%20ML%20by%20Building%20It%20From%20Scratch&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,35:302b63,100:1a1a4e&height=260&section=header&text=Dhruv%20Kachhela&fontSize=52&fontColor=38BDF8&animation=twinkling&fontAlignY=35&desc=Engineering%20Physics%20%40%20IIT%20Indore%20%7C%20Learning%20ML%20by%20Building%20It%20From%20Scratch&descAlignY=55&descAlign=50&descColor=E2E8F0" />
 
 <a href="https://github.com/dhruvkachhela">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Physics+brain%2C+ML+obsession;If+a+library+auto-handles+it%2C+I+build+it+manually+first;B.Tech+Engineering+Physics+%40+IIT+Indore;Learning+in+public%2C+one+rebuilt+idea+at+a+time" alt="Typing SVG" />
@@ -152,6 +152,6 @@ AI-native security scanner — 9–10 layer pipeline (Tree-sitter AST → Semgre
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhruvkachhela&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a4e,35:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
