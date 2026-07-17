@@ -17,6 +17,10 @@
 
 ## About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
+
 ```python
 class Dhruv:
     def __init__(self):
@@ -28,6 +32,15 @@ class Dhruv:
     def ships_with(self):
         return "AI-native development workflows, not hand-written boilerplate"
 ```
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/img/coder.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
