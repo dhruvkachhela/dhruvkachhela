@@ -36,7 +36,7 @@ class Dhruv:
 </td>
 <td width="40%" valign="top">
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/img/coder.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
 </td>
 </tr>
