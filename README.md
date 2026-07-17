@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Dhruv%20Kachhela&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Builder%20%7C%20IIT%20Indore&descAlignY=58&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Dhruv%20Kachhela&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Physics%20%40%20IIT%20Indore%20%7C%20Learning%20ML%20by%20Building%20It%20From%20Scratch&descAlignY=58&descAlign=50" />
 
 <a href="https://github.com/dhruvkachhela">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Training+models+from+scratch+%E2%80%94+no+black+boxes;LoRA+%2F+QLoRA+fine-tuning+%7C+Transformers+from+first+principles;B.Tech+Engineering+Physics+%40+IIT+Indore;Building+toward+a+YC-track+startup" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Physics+brain%2C+ML+obsession;If+a+library+auto-handles+it%2C+I+build+it+manually+first;B.Tech+Engineering+Physics+%40+IIT+Indore;Learning+in+public%2C+one+rebuilt+idea+at+a+time" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,13 +24,13 @@
 ```python
 class Dhruv:
     def __init__(self):
-        self.role         = "AI/ML Engineer in training, Founder-track builder"
         self.education    = "B.Tech Engineering Physics, IIT Indore (2024–2028)"
         self.philosophy   = "Zero black boxes — if a library auto-handles it, I build it manually first"
         self.currently    = ["From-scratch NF4 quantization (QLoRA)", "DSA grind", "Paper → code mapping"]
+        self.shipped      = ["LoRA fine-tuning (Qwen2.5-0.5B)", "Transformer from scratch", "RL trading bot"]
 
-    def ships_with(self):
-        return "AI-native development workflows, not hand-written boilerplate"
+    def learns_by(self):
+        return "Implementing the manual version of anything a library auto-handles"
 ```
 
 </td>
