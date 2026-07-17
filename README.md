@@ -34,9 +34,9 @@ class Dhruv:
 ```
 
 </td>
-<td width="40%" valign="top">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="280"/>
 
 </td>
 </tr>
