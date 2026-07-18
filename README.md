@@ -135,7 +135,7 @@ AI-native security scanner — 9–10 layer pipeline (Tree-sitter AST → Semgre
 
 <img src="https://raw.githubusercontent.com/dhruvkachhela/dhruvkachhela/output/github-contribution-grid-snake-dark.svg" width="95%" />
 
-<sub>⚠️ Snake animation needs a one-time GitHub Actions setup — see note below.</sub>
+<!-- <sub>⚠️ Snake animation needs a one-time GitHub Actions setup — see note below.</sub> -->
 
 </div>
 
